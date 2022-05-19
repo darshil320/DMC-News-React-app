@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nectar Gan, Gawon Bae and Helen Regan, CNN",
+      "title": "What we know (and don't know) about North Korea's Covid outbreak - CNN",
+      "description": "North Korea's first-reported Covid-19 outbreak is the \"greatest turmoil\" to befall the country since its founding more than 70 years ago, according to its leader Kim Jong Un, as the isolated and impoverished nation scrambles to curb the spread of a highly tra…",
+      "url": "https://www.cnn.com/2022/05/14/asia/north-korea-covid-outbreak-explainer-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220513201612-kim-jong-un-0514-super-tease.jpg",
+      "publishedAt": "2022-05-14T14:25:00Z",
+      "content": "(CNN)North Korea's first-reported Covid-19 outbreak is the \"greatest turmoil\" to befall the country since its founding more than 70 years ago, according to its leader Kim Jong Un, as the isolated and… [+8543 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Adam Liptak",
+      "title": "Justice Thomas Says Leaked Opinion Destroyed Trust at Supreme Court - The New York Times",
+      "description": "In remarks at a conference in Dallas, he also denounced the recent protests at justices’ homes and said conservatives would not adopt such tactics.",
+      "url": "https://www.nytimes.com/2022/05/14/us/politics/supreme-court-clarence-thomas.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/13/us/justice-thomas--may-13/justice-thomas--may-13-facebookJumbo-v3.jpg",
+      "publishedAt": "2022-05-14T14:05:53Z",
+      "content": "Justice Thomas said the left had adopted tactics that conservatives would not employ.\r\nYou would never visit Supreme Court justices houses when things didnt go our way, he said. We didnt throw temper… [+1398 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Putin warns Finland joining Nato would be 'mistake' - BBC",
+      "description": "Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine.",
+      "url": "https://www.bbc.com/news/world-europe-61450694",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5068/production/_124748502_gettyimages-1240615345.jpg",
+      "publishedAt": "2022-05-14T14:03:30Z",
+      "content": "Image source, Getty Images\r\nImage caption, Finland has increased its military budget in recent years\r\nRussian President Vladimir Putin has warned his Finnish counterpart that joining Nato and abandon… [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Yaroslav Trofimov and Mauro Orru",
+      "title": "Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines - The Wall Street Journal",
+      "description": "Ukrainian forces continued clearing villages north of Kharkiv, as President Vladimir Putin warned Finland’s leader that joining NATO would risk damaging ties with Moscow, and GOP senators visited Kyiv.",
+      "url": "https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731",
+      "urlToImage": "https://images.wsj.net/im-544546/social",
+      "publishedAt": "2022-05-14T13:38:00Z",
+      "content": "KYIV, UkraineUkraine began a counteroffensive toward the eastern city of Izyum aimed at disrupting Russian supply lines into the Donbas region, officials said, as Ukrainian forces continued clearing … [+573 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Diddy Supports Morgan Wallen, Travis Scott and Wants Cancel Culture Canceled - TMZ",
+      "description": "Diddy has hopped on the newest train in pop culture ... the one canceling cancel culture.",
+      "url": "https://www.tmz.com/2022/05/14/diddy-support-morgan-wallen-travis-scott-cancel-culture/",
+      "urlToImage": "https://imagez.tmz.com/image/d6/16by9/2022/05/14/d6ceccec42c94a25982646909971710c_xl.jpg",
+      "publishedAt": "2022-05-14T13:21:00Z",
+      "content": "Diddy has hopped on the newest train in pop culture ... the one canceling cancel culture.\r\nDiddy said, \"As a music family, none of us are saints; none of us are without things that happen to them in … [+1100 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WISN Milwaukee" },
+      "author": null,
+      "title": "17 wounded in mass shooting near Water & Juneau in downtown Milwaukee - WISN Milwaukee",
+      "description": "Milwaukee police say they arrested 10 people and recovered 9 firearms.",
+      "url": "https://www.wisn.com/article/large-police-presence-at-water-and-juneau-milwaukee/39997812",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fea22644-06de-4e55-9a75-9388f865774b/fea22644-06de-4e55-9a75-9388f865774b_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-05-14T13:20:00Z",
+      "content": "MILWAUKEE —Milwaukee police say 17 people were shot in the area of North Water Street and East Juneau Avenue on Friday night.\r\nInvestigators said the victims range in age from 15-47. Police expect al… [+925 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Exclusive: Turkey 'not closing door' to Sweden, Finland NATO entry, Erdogan advisor says - Reuters",
+      "description": "Turkey has not shut the door to Sweden and Finland joining NATO but wants negotiations with the Nordic countries and a clampdown on what it sees as terrorist activities especially in Stockholm, President Tayyip Erdogan's spokesman said on Saturday.",
+      "url": "https://www.reuters.com/world/exclusive-turkey-not-closing-door-sweden-finland-nato-entry-erdogan-advisor-says-2022-05-14/",
+      "urlToImage": "https://www.reuters.com/resizer/5e6jP0jB_HcdzoGIttjq1n-TsSE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6EIYYWH3XJNMFFDS7YUP73AIJI.jpg",
+      "publishedAt": "2022-05-14T13:12:00Z",
+      "content": "ISTANBUL, May 14 (Reuters) - Turkey has not shut the door to Sweden and Finland joining NATO but wants negotiations with the Nordic countries and a clampdown on what it sees as terrorist activities e… [+3596 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tim Lister, Veronica Stracqualursi",
+      "title": "Zelensky welcomes US Senate GOP delegation led by Mitch McConnell - CNN",
+      "description": "Ukrainian President Volodymyr Zelensky has welcomed to Kyiv a congressional delegation led by Senate Minority Leader Mitch McConnell.",
+      "url": "https://www.cnn.com/2022/05/14/politics/zelensky-ukraine-mcconnell-republican-senators/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220514085612-01-gop-senators-zelensky-ukraine-0514.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-05-14T13:02:00Z",
+      "content": "Ukrainian President Volodymyr Zelensky has welcomed to Kyiv a congressional delegation led by Senate Minority Leader Mitch McConnell. \r\nZelensky said on his Instagram account that the visit is a stro… [+1941 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The Best “Game 6 Klay” Moments #NBAPlayoffs - NBA",
+      "description": "Best of Klay Thompson in Game 6 in his career!Stay up-to-date on news, live scores and stats with the NBA App:https://app.link.nba.com/-App22",
+      "url": "https://www.youtube.com/watch?v=UfS9tA84gTI",
+      "urlToImage": "https://i.ytimg.com/vi/UfS9tA84gTI/maxresdefault.jpg",
+      "publishedAt": "2022-05-14T13:00:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Who is Mohamed bin Zayed, the UAE’s new president - Al Jazeera English",
+      "description": "Longtime de facto ruler Sheikh Mohamed bin Zayed Al Nahyan elected UAE president after the death of Sheikh Khalifa.",
+      "url": "https://www.aljazeera.com/news/2022/5/14/who-is-sheikh-mohammed-bin-zayed-al-nahyan-mbz-uaes-new-president",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-14T093940Z_1708137538_RC2C7A9ECMJG_RTRMADP_3_EMIRATES-POLITICS-PRESIDENT.jpg?resize=1200%2C630",
+      "publishedAt": "2022-05-14T12:53:43Z",
+      "content": "United Arab Emirates strongman Sheikh Mohamed bin Zayed Al Nahyan (MBZ), who was formally elected president on Saturday, has led a realignment of the Middle East that created a new anti-Iran axis wit… [+5307 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Senate Republicans' electability headache - POLITICO - POLITICO",
+      "description": "Republicans have a problem, illustrated by the Pennsylvania Senate race: continue a lackluster record of hand picking candidates, or do nothing?",
+      "url": "https://www.politico.com/news/2022/05/14/kathy-barnette-pennsylvania-gop-primary-00032367",
+      "urlToImage": "https://static.politico.com/cc/68/cfe702a04409b13444ffa2e0c692/220513-kathy-barnette-ap.jpg",
+      "publishedAt": "2022-05-14T11:00:00Z",
+      "content": "And nowhere is the downside of a free-for-all approach more potent for Republicans than in Pennsylvania. Former President Donald Trump is, improbably, openly trying to help the states Republicans mee… [+7211 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Zoe Han",
+      "title": "'It's pure panic': Florida parents of twins spent more than 4 hours driving to find baby formula - MarketWatch",
+      "description": "Amid a nationwide shortage of baby formula, President Joe Biden says ‘there’s nothing more urgent we’re working on.’",
+      "url": "https://www.marketwatch.com/story/its-pure-panic-florida-parents-of-twins-spent-more-than-4-hours-driving-to-find-baby-formula-11652485825",
+      "urlToImage": "https://images.mktw.net/im-544293/social",
+      "publishedAt": "2022-05-14T09:57:00Z",
+      "content": "When Erik and Kelly Schmidt, both 35, went into a Central Florida Target store this week to buy their usual baby formula, Up &amp; Up Gentle, for their five-month-old twins, they found an empty shelf… [+5369 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Joseph Berger",
+      "title": "Fred Ward, Star of ‘The Right Stuff’ and ‘Henry and June,’ Dies at 79 - The New York Times",
+      "description": "A versatile actor, he was best known throughout his long career for playing tough, resilient characters. But he also had a subtle side.",
+      "url": "https://www.nytimes.com/2022/05/13/movies/fred-ward-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/13/lens/13xp-ward/13xp-ward-facebookJumbo.jpg",
+      "publishedAt": "2022-05-14T09:45:00Z",
+      "content": "When the classes yielded only one small movie role, he took off to Florida, where he loaded trucks, and then to New Orleans, where he worked in a barrel factory; Houston, where a possible job as a se… [+776 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Lawrence Richard",
+      "title": "Moscow threatens to respond if NATO moves nukes any closer to its borders - Fox News",
+      "description": "Russian Deputy Foreign Minister Alexander Grushko will act to defend itself should NATO deploy nuclear-capable weapons any closer to its border.",
+      "url": "https://www.foxnews.com/world/moscow-threatens-respond-nato-moves-nukes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/05/GettyImages-1237671628.jpg",
+      "publishedAt": "2022-05-14T09:41:57Z",
+      "content": "Russia will act to defend itself should NATO deploy nuclear-capable military units any closer to its border, its foreign ministry warned.\r\nDeputy Foreign Minister Alexander Grushko did not lay out an… [+2165 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Golden State of Mind" },
+      "author": "Brady Klopfer",
+      "title": "Klay Thompson, Warriors graded in Game 6 vs. Grizzlies - Golden State of Mind",
+      "description": "Grading Klay Thompson, Steph Curry, Andrew Wiggins, and the rest of the Golden State Warriors in the team’s 110-96 win over the Memphis Grizzlies in Game 6 of the Western Conference Semifinals.",
+      "url": "https://www.goldenstateofmind.com/2022/5/13/23072538/warriors-grizzlies-grades-klay-thompson-steph-curry-game-6",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Nos9TKcRridSMfSbIRcyY_-W5_o=/0x16:3317x1753/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23467189/1397142236.jpg",
+      "publishedAt": "2022-05-14T06:39:42Z",
+      "content": "Boom.\r\nAnd just like that, the Golden State Warriors are back in the Western Conference Finals for the sixth time in eight years. \r\nIt wasnt pretty. It was often ugly. But the Dubs still shut the doo… [+5463 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Demonstrators across the US protest expected reversal of Roe v Wade - The Guardian",
+      "description": "Bans Off Our Bodies marches follow the Senate’s failure to pass legislation protecting the right to an abortion",
+      "url": "https://amp.theguardian.com/world/2022/may/14/protests-abortion-rights-cities-roe",
+      "urlToImage": null,
+      "publishedAt": "2022-05-14T06:02:00Z",
+      "content": "ProtestBans Off Our Bodies marches follow the Senates failure to pass legislation protecting the right to an abortion\r\nSat 14 May 2022 02.00 EDT\r\nWith the US supreme court apparently poised to overtu… [+2533 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Celtics vs. Bucks: Jayson Tatum, Giannis Antetokounmpo go blow-for-blow in a heavyweight bout for the ages - CBS Sports",
+      "description": "The two stars combined to score 90 points on 62 shots on Friday",
+      "url": "https://www.cbssports.com/nba/news/celtics-vs-bucks-jayson-tatum-giannis-antetokounmpo-go-blow-for-blow-in-a-heavyweight-bout-for-the-ages/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/05/14/59ef10dd-797d-4469-8277-415e809bfe22/thumbnail/1200x675/92fe3216aa04dc8d92e9c0b9b5da0429/jayson-tatum-and-giannis.jpg",
+      "publishedAt": "2022-05-14T05:53:02Z",
+      "content": "Giannis Antetokounmpo and Jayson Tatum gave us a heavyweight bout for the ages on Friday, combining for 90 points on 62 shots. Tatum's Celtics got the win, sending this series to a Game 7 on Sunday. … [+4007 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Jesse O’Neill",
+      "title": "Musk says he'll randomly sample Twitter accounts to find true number of bots - New York Post ",
+      "description": "Elon Musk on Friday night explained how he will determine the number of spam and fake accounts on Twitter, hours after he said his bid to acquire the platform was on hold due to the company’s…",
+      "url": "https://nypost.com/2022/05/14/elon-musk-to-randomly-sample-twitter-accounts-to-find-true-number-of-spam-fake-accounts/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/elon-musk-4.jpg?quality=75&strip=all&1652491818&w=1024",
+      "publishedAt": "2022-05-14T05:36:00Z",
+      "content": "Elon Musk on Friday night explained how he will determine the number of spam and fake accounts on Twitter, hours after he said his bid to acquire the platform was on hold due to the company’s possibl… [+2273 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KTVU San Francisco" },
+      "author": "KTVU FOX 2",
+      "title": "Bay Area health officers recommend masking indoors; region has highest infection rate in California - KTVU FOX 2 San Francisco",
+      "description": "Twelve Bay Area health officers on Friday recommended that people wear masks indoors amidst a new swell of COVID cases and hospitalizations.",
+      "url": "https://www.ktvu.com/news/bay-area-health-officers-recommend-masking-indoors-region-has-highest-infection-rate-in-california",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/07/1280/720/indoor-masks.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-14T05:35:31Z",
+      "content": "SAN JOSE, Calif. - Twelve Bay Area health officers on Friday recommended that people wear masks indoors amidst a new swell of COVID cases and hospitalizations.\r\nThe Bay Area now has California’s high… [+3377 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Jamiel Lynch and Christina Maxouris, CNN",
+      "title": "Dallas police believe 3 recent shootings at Asian-owned businesses may be connected and hate-motivated - CNN",
+      "description": "Dallas police believe three recent shootings at Asian-run businesses in the area may be connected, and may be hate-motivated, Chief Edgardo Garcia said in a Friday news conference.",
+      "url": "https://www.cnn.com/2022/05/14/us/dallas-asian-run-businesses-shootings/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220513191537-01-dalls-shooting-super-tease.jpg",
+      "publishedAt": "2022-05-14T04:01:00Z",
+      "content": "(CNN)Dallas police believe three recent shootings at Asian-run businesses in the area may be connected, and may be hate-motivated, Chief Edgardo Garcia said in a Friday news conference.\r\nThe latest s… [+2015 chars]"
+    }
+  ]
+}
